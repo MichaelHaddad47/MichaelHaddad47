@@ -6,7 +6,7 @@ Software Eng & Competitive Eater
 
 * 🌍  I'm based in Ottawa, Canada
 * ✉️  You can contact me at [hadmic10@gmail.com](mailto:hadmic10@gmail.com)
-* 🚀  I'm currently working on [Artificial Intelligence Chess Bot](http://google.com/404) (Coming soon)
+* 🚀  I'm currently working on [Instagram Chat Translator](http://google.com/404) (Coming soon)
 * 🤝  I'm open to collaborating on AI projects
 * ⚡  I'm the best baker you'll ever meet ;)
 
