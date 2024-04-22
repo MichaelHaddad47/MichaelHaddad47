@@ -8,7 +8,7 @@ Software Eng & Competitive Eater
 * ✉️  You can contact me at [hadmic10@gmail.com](mailto:hadmic10@gmail.com)
 * 🚀  I'm currently working on [Instagram Chat Translator](http://google.com/404) (Coming soon)
 * 🤝  I'm open to collaborating on AI projects
-* ⚡  I'm the best baker you'll ever meet ;)
+* ⚡  **I'm the best baker you'll ever meet ;)**
 
 ### Skills
 
