@@ -30,4 +30,5 @@ Software Eng & Competitive Eater
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelHaddad47&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MichaelHaddad47)](https://github.com/ryo-ma/github-profile-trophy)
+[//]: [![trophy](https://github-profile-trophy.vercel.app/?username=MichaelHaddad47)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=MichaelHaddad47)
