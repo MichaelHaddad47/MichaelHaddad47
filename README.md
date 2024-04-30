@@ -24,8 +24,9 @@ Software Eng & Competitive Eater
 
 ### Stats
 <a href="https://github.com/MichaelHaddad47/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelHaddad47&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MichaelHaddad47&show_icons=true&hide_rank=true" />
 </a>
 <a href="https://github.com/MichaelHaddad47/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelHaddad47&layout=compact&langs_count=8&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelHaddad47&layout=compact&langs_count=8&card_width=320" />
 </a>
+
