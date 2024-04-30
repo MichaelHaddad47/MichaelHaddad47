@@ -33,3 +33,6 @@ Software Eng & Competitive Eater
 <br><br>
 
 ![](https://github-trophies.vercel.app/?username=MichaelHaddad47)
+
+### Leetcode
+[![Mike's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=fatmlke)](https://github.com/fatmlke/leetcode-stats)
