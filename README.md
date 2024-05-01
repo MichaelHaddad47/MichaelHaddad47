@@ -29,10 +29,3 @@ Software Eng & Competitive Eater
 <a href="https://github.com/MichaelHaddad47/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelHaddad47&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-<br><br>
-
-![](https://github-trophies.vercel.app/?username=MichaelHaddad47)
-
-### Leetcode
-[![Mike's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=fatmlke)](https://github.com/fatmlke/leetcode-stats)
